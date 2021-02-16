@@ -1,17 +1,16 @@
-### Pão Francês
+# Pão Francês :bread:
 
-#### Ingredientes
+### Ingredientes
 
 - 10g de fermento biológico seco (se usar não-seco, tipo o de padaria, usar 3x
-  mais) -- NÃO é fermento químico!
+  mais) -- **NÃO é fermento químico!**
 - 300mL de água morna (entre 40 e 50°C)
 - 30g de açúcar (pode ser cristal ou mesmo mel)
 - 0.6kg de farinha de trigo (sem fermento)
 - 10g de sal
 - 35mL de azeite
 
-
-#### Preparo
+### Preparo
 
 - Em uma tigela pequena, misture o fermento, o açúcar e a água e mexa bem;
   separe a mistura para que a fermentação comece -- essa mistura é chamada de
@@ -19,7 +18,7 @@
 - Em uma tigela maior, coloque a farinha, o sal e o azeite e vá misturando com
   as mãos;
 - Caso queira incrementar o pão, adicione na tigela maior e misture até ficar
-  homegêneo. Sugestões: alecrim, linhaça, chia, gergelim, orégano;
+  homogêneo. Sugestões: alecrim, linhaça, chia, gergelim, orégano;
 - Vá colocando aos poucos a esponja na mistura de farinha e misturando com as
   mãos, até que a mistura fique homogênea;
 - Quando a massa na tigela estiver consistente, jogue farinha em cima de uma
